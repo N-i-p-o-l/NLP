@@ -4,3 +4,6 @@
 
 **simple_intent_recognize**                                                                                                               
 *Text intent recognize with ntlk, countvectorizer and random forest. Can be used for support chat bot*
+
+**BBC News_CNN**                                                                                                               
+*BBC News text classification with tensorflow and CNN*
