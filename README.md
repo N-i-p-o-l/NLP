@@ -8,5 +8,5 @@
 **BBC News_CNN**                                                                                                               
 *BBC News text classification with tensorflow and CNN*
 
-**Shakespear_Lstm**
+**Shakespear_Lstm**                                          
 *Shakespear lstm project from deeplearning.ai nlp course*
